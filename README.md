@@ -50,6 +50,10 @@ Answer: Process of requirements engineering
 
 3. Requarement specification: This step is used to produce both functional and non functional requiremets for the software
 
+requirement verification and validation: Verification it refers to set of task that ensures that the software correctly implements a specific function
+Validation it refers to a dirrefent set of task that ensure the software has been buits is traceable to custumer requirements
+
+Requirement management:  Is the process of analyzing, documenting, tracking, prioritizing and agreeing on the requirement and controlling the communication with the relevant stake holders 
 
 Software Design Principles:
 
@@ -74,3 +78,8 @@ Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
+
+Refference:
+1. Geeksforgeeks, Software enginnering | Requirements engineering process
+2.Amazon AWS, What is SDLC (Software Development Lifecycle)?, https://aws.amazon.com/what-is/sdlc/ Accessed 5 June 2024
+3. Michigan Techological University, What is Software Engineering?, https://www.mtu.edu/cs/undergraduate/software/what/, Accessed 5 June 2024
