@@ -30,12 +30,27 @@ Deploy: In the phase of deployment the software engineer release the tested vers
 Maintain: The final stage of SDLC involve fixing of errors and bugs that has been missed snd those that will occurs in the future to ensure smooth users experience
 
 Agile vs. Waterfall Models:
-
+The agile mode of SDLC arranges the phases into several developments cyscles tthat are carried out  by team through iteration and derivering small increment of each phse in the cycle while Waterfall all phases of SDLC are exucuted sequentially so that each of the formal step complete and new phase depends on the outcome of the previously phase
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Answer:
+In waterfall mode each of all phase are occuared sequentilly while in Agile mode each phase can take place at the same time ad independently to the outcome of other phase
+Its easy to address the issue in Agile mode while its diffult to perform the changes in waterfall once the phase is completed
+Waterfall is suitable for the small project that its requirements can be pre defined for a example designing e comercy website while is suitable for the complex projects th are subjected to on going change for example development of AI model
+
+
 Requirements Engineering:
+Iss the systematic approach of identifyng, documentig and verification of the requirement for a software systems to guarantee  the effective creation of a software product
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+Answer: Process of requirements engineering
+1. Feasibility strudy. This step main focus on analysis of the requarement of economic, technical and operational feasibility. This step is cruatial in assessing whether availbale resources can provide result for intended software
+
+2. Requament elicitation: This steps involves variously ways to gain knowledge and skills about the project domain and requirements
+
+3. Requarement specification: This step is used to produce both functional and non functional requiremets for the software
+
+
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
