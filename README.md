@@ -8,11 +8,29 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
+Answer: Software engineering is the branch of computer science that deals with designing, developing, testing and maintainance of the software applications
+
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Answer: Software engineering utilizes computer science  mathematical and fundamental engineering principles to construct the instructions of a software program that is intended to solve particular problem in the society while programing have narrower focus that involve writing codes to instruct software program how and when top execute specific functions to deliver on a predetermined set of outcomes
+
+Software Development Life Cycle (SDLC): SDLC is the cost effective and time efficient process of development of teams used to design, buld and maintain high quality software
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Answer: There are 6 main pahses of the SDLC:
+Plan: The planning phase  of SDLS involve identification of the problem, scheduling resource and allocation, defination of the goal of the software and detailed plan of how to archive the goals
+
+Design: In design phase of the SDLC the engineers analyze and identify the best solutions to create user friend and functioning software
+
+Implement: in implementation phase of SDLC developments team develop code for solving the identified problem through the software
+
+Test: in the testing phse of SDLC the development team utilize manual and automatic testing methods to cgeck for the errors and bugs
+
+Deploy: In the phase of deployment the software engineer release the tested version of the software to be used by the end users
+
+Maintain: The final stage of SDLC involve fixing of errors and bugs that has been missed snd those that will occurs in the future to ensure smooth users experience
+
 Agile vs. Waterfall Models:
+
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
