@@ -70,9 +70,14 @@ Integration testing: This is the level where each and every software componets  
 Unit testing: Unit testing is the level of testing tha validates thet each of software unit runs as expected
 System testing involves testing all the key elements of the software system, hardware, documentation, data, networking and how people interact with the software
 Security testing it involves validating that your software is not open to hackers or other malicious tpes of vulnerablity that might exploit to deny access to your services or cause them to perfom incorrectly 
-Version Control Systems:
+Software tesing is important because it help to improve software security and reduce bugs and errors that will help in reducing cost and burden of maintainance
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+Version Control Systems: Version control systems are software tools that help software teams manage changes to source code over time
+Version control systems is important as it accelerate software production by helping different develop[ers to contribute in development of the software and hence pruction will be fatser and cost effectively. Also version control help to keep tracting of the changes and modification to the code in a special kind of database and help developer to come back and compare to the earlier version of the code if mistake happens
+Example of version control systems are Git and GitHub, Azure DevOps, IBM configaration management version control and apache subversion
+Popular version control system is is GIThub and the folloingw is its feature; code hosting is easy it provide smooth project management, help in improving code writing 
+
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
@@ -93,3 +98,5 @@ Refference:
 2. Amazon AWS, "What is SDLC (Software Development Lifecycle)?", https://aws.amazon.com/what-is/sdlc/ Accessed 5 June 2024
 3. Michigan Techological University, "What is Software Engineering?", https://www.mtu.edu/cs/undergraduate/software/what/, Accessed 5 June 2024
 4. JavaTpoint, "Software Engineering - Software Design Principles.", https://www.javatpoint.com/software-engineering-software-design-principles Accessed 6 June 2024
+5. Atlassian. "What is Version Control? - Atlassian Git Tutorial.", https://www.atlassian.com/git/tutorials/what-is-version-control.Accessed 6 June 2024
+6. Everhour. "What is GitHub? A Beginner's Guide to Using GitHub for Version Control.", https://everhour.com/blog/what-is-github/. Accessed 6 June 2024
