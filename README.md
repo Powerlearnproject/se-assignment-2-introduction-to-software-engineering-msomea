@@ -55,12 +55,21 @@ Validation it refers to a dirrefent set of task that ensure the software has bee
 
 Requirement management:  Is the process of analyzing, documenting, tracking, prioritizing and agreeing on the requirement and controlling the communication with the relevant stake holders 
 
-Software Design Principles:
+Software Design Principles: These are sets of principles that concerned with providing means to handle the coplexicity of the software designing process effectively and reduces errosr and effort needed during design.
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Testing in Software Engineering:
+Modurarity refers to the division of the software into separated modulies which are diferently named and addressd which later are integrated to obtain the completely functional software
+Modularity allows large program to be written by several or different people and hence it easy easy to perform maintainance and also it simplifies the overlay procedure of loading a large program into main storage 
+
+Testing in Software Engineering: Testing in Software Engineering refers to the systematic process of evaluating and verifying that a developed software productdoes what it's supposed to do in order to prevent bugs and improve performance
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+There are different types of software testing which involves;
+Acceptance testing: This is the level of testing which validates if the whole system works as intended
+Integration testing: This is the level where each and every software componets  or function are tested to ensure they can operate together
+Unit testing: Unit testing is the level of testing tha validates thet each of software unit runs as expected
+System testing involves testing all the key elements of the software system, hardware, documentation, data, networking and how people interact with the software
+Security testing it involves validating that your software is not open to hackers or other malicious tpes of vulnerablity that might exploit to deny access to your services or cause them to perfom incorrectly 
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
@@ -80,6 +89,7 @@ Cite any references or sources you use in your answers.
 Submit your completed assignment by [due date].
 
 Refference:
-1. Geeksforgeeks, Software enginnering | Requirements engineering process
-2.Amazon AWS, What is SDLC (Software Development Lifecycle)?, https://aws.amazon.com/what-is/sdlc/ Accessed 5 June 2024
-3. Michigan Techological University, What is Software Engineering?, https://www.mtu.edu/cs/undergraduate/software/what/, Accessed 5 June 2024
+1. Geeksforgeeks, "Software engineering | Requirements engineering process" https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/ Accessed 5 June 2024
+2. Amazon AWS, "What is SDLC (Software Development Lifecycle)?", https://aws.amazon.com/what-is/sdlc/ Accessed 5 June 2024
+3. Michigan Techological University, "What is Software Engineering?", https://www.mtu.edu/cs/undergraduate/software/what/, Accessed 5 June 2024
+4. JavaTpoint, "Software Engineering - Software Design Principles.", https://www.javatpoint.com/software-engineering-software-design-principles Accessed 6 June 2024
