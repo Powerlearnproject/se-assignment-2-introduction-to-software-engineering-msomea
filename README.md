@@ -40,7 +40,7 @@ Waterfall is suitable for the small project that its requirements can be pre def
 
 
 Requirements Engineering:
-Iss the systematic approach of identifyng, documentig and verification of the requirement for a software systems to guarantee  the effective creation of a software product
+Is the systematic approach of identifyng, documentig and verification of the requirement for a software systems to guarantee  the effective creation of a software product
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Answer: Process of requirements engineering
@@ -74,19 +74,26 @@ Software tesing is important because it help to improve software security and re
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Version Control Systems: Version control systems are software tools that help software teams manage changes to source code over time
-Version control systems is important as it accelerate software production by helping different develop[ers to contribute in development of the software and hence pruction will be fatser and cost effectively. Also version control help to keep tracting of the changes and modification to the code in a special kind of database and help developer to come back and compare to the earlier version of the code if mistake happens
+Version control systems is important as it accelerate software production by helping different developers to contribute in development of the software and hence pruction will be fatser and cost effectively. Also version control help to keep tracting of the changes and modification to the code in a special kind of database and help developer to come back and compare to the earlier version of the code if mistake happens
 Example of version control systems are Git and GitHub, Azure DevOps, IBM configaration management version control and apache subversion
 Popular version control system is is GIThub and the folloingw is its feature; code hosting is easy it provide smooth project management, help in improving code writing 
 
-Software Project Management:
+Software Project Management:A software project manager is a professional responsible for overseeing and managing software development projects from inception to completion
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Software Maintenance:
+Answer: A software project manager are responsible for planning, executing, and closing projects, ensuring that they meet the intended goals within the required timeflame, budget, and resources availables.
+Key responsibility of the prject manager includes project planning nd scheduling, management of the team, budget management, risk management, project documentation, to maintain health communication to the stakeholder and software quality assurance.
+Challenges in managin software project include tight timeflame and deadlines, communications gapes, change in the technology, high customer espectations
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 Ethical Considerations in Software Engineering:
+Answer: Software maintenance is a crucial phase in the software development lifecycle involving the modification and updating of software after its initial release to correct faults, improve performance, or adapt to a changed environment.
+Maintenance is crucial for ensuring the longevity, reliability, and relevance of software through buug fixing and  preventio of future bugs, to improve performance and adopting to the changing world.
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Answer: Ethical issues are most important parameters in software engineering to ensure that technology serves humanity in a positive ways and ensure responsibly of the software engineer. Some key ethical considerations that engineer can adhere to include: user privacy and data protection to ensure confidentiality of the usres, Security to prevent user from data breach, Quality and Reliability of the software, responsibility and accountability of the software engineer, positive social impact and sustainability of the software 
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
@@ -100,3 +107,18 @@ Refference:
 4. JavaTpoint, "Software Engineering - Software Design Principles.", https://www.javatpoint.com/software-engineering-software-design-principles Accessed 6 June 2024
 5. Atlassian. "What is Version Control? - Atlassian Git Tutorial.", https://www.atlassian.com/git/tutorials/what-is-version-control.Accessed 6 June 2024
 6. Everhour. "What is GitHub? A Beginner's Guide to Using GitHub for Version Control.", https://everhour.com/blog/what-is-github/. Accessed 6 June 2024
+7. Project management "Project Manager Roles & Responsibilities in Software Projects." Project-Management.com, https://project-management.com/project-manager-roles-responsibilities-software-projects/. Accessed 8 June 2024.
+8. CAST Software, "Four Types of Software Maintenance: How They Help Your Organization - Preventive, Perfective, Adaptive, Corrective.", https://www.castsoftware.com/glossary/four-types-of-software-maintenance-how-they-help-your-organization-preventive-perfective-adaptive-corrective. Accessed 8 June 2024.
+
+
+
+
+
+
+
+
+
+
+
+
+
